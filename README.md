@@ -17,18 +17,6 @@
 
 </div>
 
-<p align="center">
-  <a href="#about">About</a>
-  •
-  <a href="#Features">Features</a>
-  •
-  <a href="https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/INSTALLATION.md">Installation</a>
-  •
-  <a href="#license">License</a>
-  •
-  <a href="#credits">Credits</a>
-</p>
-
 ## ❓ About
 
 Egglord is an open source, fully customizable Discord bot that is constantly growing. You can invite it to your Discord server using [this](https://discord.com/oauth2/authorize?client_id=647203942903840779&permissions=485846102&scope=bot) link! Also, you can join the official [Egglord Support Server](https://discord.gg/8g6zUQu) for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
@@ -68,26 +56,3 @@ Egglord also comes packed with a variety of features, such as:
   * And much more! There are over **40+** settings to tweak!
 
 
-## 📝 To-Do
-
-Egglord is pretty much at the end of development now, it will only be updated for the following things:
-
-  * Bug fixes
-  * Code optimisation
-  * New discord features
-  * Suggestions I deem very good.
-
-## 🖥️ My other projects
- * [Auto poster](https://github.com/Spiderjockey02/auto-poster-and-notifications) - Allows your users to get notified when you post on another social media. (Youtube, twitch, twitter, reddit etc)
- * [erela.js-facebook](https://github.com/Spiderjockey02/erela.js-facebook) - Allows facebook videos to played with [erela.js](https://github.com/MenuDocs/erela.js) (A [lavalink](https://github.com/Freyacodes/Lavalink) client).
-
-## 📖 License
-
-Released under the [Apache License 2.0](https://github.com/Spiderjockey02/Discord-Bot/blob/master/LICENSE) license.
-
-## 📜 Credits
-* **[Tovade#6617](https://github.com/tovade)** - Initial Reaction Role System.
-* **Josh_V2#9733** - Slash Commands & Tags System.
-* **XBouBou#0856** - French Translation.
-* **[duncte123#1245](https://github.com/duncte123)** - [Lavalink plugin](https://github.com/DuncteBot/skybot-lavalink-plugin/tree/1.1.2) (TTS, reddit etc).
-* Want to be on this list, aswell? - Check out the [Contributing page](https://github.com/Spiderjockey02/Discord-Bot/blob/master/docs/CONTRIBUTING.md).
