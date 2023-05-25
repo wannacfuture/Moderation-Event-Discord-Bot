@@ -19,7 +19,7 @@
 
 ## ❓ About
 
-Egglord is an open source, fully customizable Discord bot that is constantly growing. Also, you can join the official [Egglord Support Server](https://discord.gg/8g6zUQu) for all questions, suggestions, and assistance! It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
+Egglord is an open source, fully customizable Discord bot that is constantly growing. It comes packaged with a variety of commands and a multitude of settings that can be tailored to your server's specific needs.
 
 If you liked this repository, feel free to leave a star ⭐ to help promote Egglord!
 
