@@ -27,7 +27,7 @@
     "canvacord": "^5.4.8",
     "chalk": "^4.1.2",
     "cors": "^2.8.5",
-    "dateformat": "^4.6.3",
+    "dateformat": "^5.0.3",
     "discord.js": "^14.9.0",
     "duckduckgo-images-api": "^1.0.5",
     "erela.js": "github:menudocs/erela.js#build",
